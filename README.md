@@ -1,2 +1,2 @@
-# audiactic
+# audiaptic
 A distributed audio-visual-haptic performance solution.
